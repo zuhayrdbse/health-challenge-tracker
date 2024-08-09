@@ -1,7 +1,7 @@
 # HealthChallengeTracker
 
 This is the assignment as part of the Fyle Angular SPA project ! 
-Simpoly install rewuired dependencies but before you do that ensure you have angular installed on your device. Follow this link to set up angular `https://angular.dev/installation`
+Simply install required dependencies but before you do that ensure you have angular installed on your device. Follow this link to set up angular `https://angular.dev/installation`
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.4.
 
