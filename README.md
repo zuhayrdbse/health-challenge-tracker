@@ -4,6 +4,10 @@ This is the assignment as part of the Fyle Angular SPA project !
 Simply install required dependencies but before you do that ensure you have angular installed on your device. Follow this link to set up angular `https://angular.dev/installation`
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.4.
+## Running unit tests
+Ran a simple unit test using ng test command
+![image](https://github.com/user-attachments/assets/e48caef3-efe0-46f1-a388-ed71a7e7f6b1)
+
 
 ## Development server
 
@@ -17,9 +21,6 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
 ## Running end-to-end tests
 
