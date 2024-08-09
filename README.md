@@ -4,6 +4,9 @@ This is the assignment as part of the Fyle Angular SPA project !
 Simply install required dependencies but before you do that ensure you have angular installed on your device. Follow this link to set up angular `https://angular.dev/installation`
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.4.
+# The website is up and running here do check it out ⬇️
+https://health-challenge-tracker-rust.vercel.app/
+
 ## Running unit tests
 Ran a simple unit test using ng test command
 ![image](https://github.com/user-attachments/assets/e48caef3-efe0-46f1-a388-ed71a7e7f6b1)
